@@ -2,7 +2,7 @@
 Repository focused on learning and experimenting with automation using PyAutoGUI.
 ---
 PyAutoGUI is a Python library used to automate interactions with your computer screen — basically, it lets your code control the mouse and keyboard like a human would.
-
+---
 💡 What it can do:
 Move the mouse and click anywhere
 Type text automatically
