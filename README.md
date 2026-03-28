@@ -39,3 +39,10 @@ This repository contains practical experiments and scripts focused on:
 - Improving workflow efficiency  
 
 ---
+
+## 💡 Tip
+
+To easily get the mouse coordinates, you can install and use:
+
+```bash
+pip install mouseinfo
