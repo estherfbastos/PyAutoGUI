@@ -1,15 +1,41 @@
-# PyAutoGUI
+# 🖥️ PyAutoGUI Automation Studies
+
 Repository focused on learning and experimenting with automation using PyAutoGUI.
+
 ---
-PyAutoGUI is a Python library used to automate interactions with your computer screen — basically, it lets your code control the mouse and keyboard like a human would.
+
+## 📌 About
+
+PyAutoGUI is a Python library used to automate interactions with your computer screen — allowing your code to control the mouse and keyboard like a human would.
+
 ---
-💡 What it can do:
-Move the mouse and click anywhere
-Type text automatically
-Press keyboard shortcuts (Ctrl+C, Alt+Tab, etc.)
-Take screenshots
-Locate images on the screen (e.g., find a button and click it)
+
+## 💡 Features
+
+With PyAutoGUI, you can:
+
+- Move the mouse and click anywhere  
+- Type text automatically  
+- Press keyboard shortcuts (e.g., Ctrl+C, Alt+Tab)  
+- Take screenshots  
+- Locate images on the screen (e.g., find a button and click it)  
+
 ---
-⚠️ Important:
-It works based on screen position and images → so it can break if layout changes
-Not ideal for large-scale backend automation (better for desktop-level tasks)
+
+## ⚠️ Important Notes
+
+- Works based on screen position and image recognition → can break if the layout changes  
+- Not ideal for large-scale backend automation  
+- Best suited for desktop-level automation and repetitive tasks  
+
+---
+
+## 🚀 Purpose
+
+This repository contains practical experiments and scripts focused on:
+
+- Learning automation concepts  
+- Building real-world use cases  
+- Improving workflow efficiency  
+
+---
